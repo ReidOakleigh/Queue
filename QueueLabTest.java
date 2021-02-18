@@ -1,7 +1,12 @@
+package tests;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import QueueLab.Queue;
+import QueueLab.QueueEmptyException;
+import QueueLab.QueueFullException;
 
 class QueueLabTest {
 
